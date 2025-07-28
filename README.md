@@ -65,7 +65,7 @@ VerifiQ is designed to streamline the membership verification process by providi
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/yazdanhaider/verifiq.git
+   git clone https://github.com/yazdanhaider/VerifiQ
    cd verifiq
    ```
 
